@@ -1,5 +1,6 @@
 (sym_lib_table
-  (lib (name CP2102N-A02-GQFN28)(type Legacy)(uri ${KIPRJMOD}/Libs/CP2102N-A02-GQFN28/CP2102N-A02-GQFN28.lib)(options "")(descr ""))
-  (lib (name ESP32-C3-MINI-1-H4)(type Legacy)(uri ${KIPRJMOD}/Libs/ESP32-C3-MINI-1-H4/ESP32-C3-MINI-1-H4.lib)(options "")(descr ""))
-  (lib (name ESP32-C3-MINI-1-N4)(type Legacy)(uri ${KIPRJMOD}/Libs/ESP32-C3-MINI-1-N4/ESP32-C3-MINI-1-N4.lib)(options "")(descr ""))
+  (lib (name "CP2102N-A02-GQFN28")(type "Legacy")(uri "${KIPRJMOD}/Libs/CP2102N-A02-GQFN28/CP2102N-A02-GQFN28.lib")(options "")(descr ""))
+  (lib (name "ESP32-C3-MINI-1-H4")(type "Legacy")(uri "${KIPRJMOD}/Libs/ESP32-C3-MINI-1-H4/ESP32-C3-MINI-1-H4.lib")(options "")(descr ""))
+  (lib (name "ESP32-C3-MINI-1-N4")(type "Legacy")(uri "${KIPRJMOD}/Libs/ESP32-C3-MINI-1-N4/ESP32-C3-MINI-1-N4.lib")(options "")(descr ""))
+  (lib (name "INMP441ACEZ")(type "Legacy")(uri "${KIPRJMOD}/Libs/INMP441/INMP441ACEZ.lib")(options "")(descr ""))
 )
