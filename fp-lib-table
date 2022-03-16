@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name "CP2102N-A02-GQFN28")(type "KiCad")(uri "${KIPRJMOD}/Libs/CP2102N-A02-GQFN28")(options "")(descr ""))
+  (lib (name "INMP441")(type "KiCad")(uri "${KIPRJMOD}/Libs/INMP441")(options "")(descr ""))
+  (lib (name "ESP32-C3FH4")(type "KiCad")(uri "${KIPRJMOD}/Libs/ESP32-C3FH4")(options "")(descr ""))
+  (lib (name "2450AD18A")(type "KiCad")(uri "${KIPRJMOD}/Libs/2450AD18A")(options "")(descr ""))
+  (lib (name "MountingHole")(type "KiCad")(uri "${KIPRJMOD}/Libs/MountingHole")(options "")(descr ""))
+  (lib (name "ECS-400-10-37B")(type "KiCad")(uri "${KIPRJMOD}/Libs/ECS-400-10-37B")(options "")(descr ""))
+  (lib (name "RKB2SJM250SMTR LFS")(type "KiCad")(uri "${KIPRJMOD}/Libs/RKB2SJM250SMTR LFS")(options "")(descr ""))
+)
