@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 1.0,
+          "width": 1.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -120,6 +120,7 @@
       },
       "track_widths": [
         0.0,
+        0.1,
         0.2,
         0.29337,
         0.3,
@@ -434,6 +435,18 @@
     [
       "994b6220-4755-4d84-91b3-6122ac1c2c5e",
       ""
+    ],
+    [
+      "1fdd44c9-5069-4880-8f8d-ab0c75786ce1",
+      "Sensors"
+    ],
+    [
+      "60436380-0ce8-4988-b0b9-d0c795066905",
+      "MCU, Crystal & Antenna."
+    ],
+    [
+      "9ffc4a2d-2cdd-401b-980f-397fbde08411",
+      "USB & Power"
     ]
   ],
   "text_variables": {}
