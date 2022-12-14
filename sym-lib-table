@@ -10,4 +10,5 @@
   (lib (name "RKB2SJM250SMTR_LFS")(type "Legacy")(uri "${KIPRJMOD}/Libs/RKB2SJM250SMTR LFS/RKB2SJM250SMTR_LFS.lib")(options "")(descr ""))
   (lib (name "BQ24382DSGT")(type "Legacy")(uri "${KIPRJMOD}/Libs/BQ24382DSGT/BQ24382DSGT.lib")(options "")(descr ""))
   (lib (name "MIC5528-3.3YMT-T5")(type "Legacy")(uri "${KIPRJMOD}/Libs/MIC5528-3.3/MIC5528-3.3YMT-T5.lib")(options "")(descr ""))
+  (lib (name "ADXL335BCPZ-RL")(type "Legacy")(uri "${KIPRJMOD}/Libs/ADXL335BCPZ-RL/ADXL335BCPZ-RL.lib")(options "")(descr ""))
 )
