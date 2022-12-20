@@ -217,6 +217,9 @@
     (path "/1fdd44c9-5069-4880-8f8d-ab0c75786ce1/5be1b434-51d0-4e8b-ae87-f82766415ca0"
       (reference "#PWR0106") (unit 1) (value "GND") (footprint "")
     )
+    (path "/9ffc4a2d-2cdd-401b-980f-397fbde08411/57fcf427-b756-4746-839c-a5a0d3919a5b"
+      (reference "#PWR0107") (unit 1) (value "GND") (footprint "")
+    )
     (path "/60436380-0ce8-4988-b0b9-d0c795066905/7dfa287f-38a4-4e18-bb60-2191e8d56d38"
       (reference "ANT1") (unit 1) (value "2450AD18A7250") (footprint "2450AD18A:ANTC3216X60N")
     )
@@ -351,6 +354,12 @@
     )
     (path "/60436380-0ce8-4988-b0b9-d0c795066905/0bd0424f-e2bb-47d2-97f9-79c1af44126b"
       (reference "R9") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/9ffc4a2d-2cdd-401b-980f-397fbde08411/2a0d29db-4ced-42d0-b01e-723e95b51977"
+      (reference "R10") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/9ffc4a2d-2cdd-401b-980f-397fbde08411/cc31d7a7-fc1d-4cff-9638-b74a35bf5bdb"
+      (reference "R11") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/9ffc4a2d-2cdd-401b-980f-397fbde08411/dd5893b9-0c79-4bb6-8667-9590fa1c3d67"
       (reference "U1") (unit 1) (value "USBLC6-2SC6") (footprint "Package_TO_SOT_SMD:SOT-23-6")
