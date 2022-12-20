@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC5528-3.3YMT-T5
+D LDO Voltage Regulators Single, 500mA LDO w/ Auto Discharge & Internal Enable Pulldown
+K
+F https://nl.mouser.com/datasheet/2/268/MIC5528_High_Performance_500mA_LDO_in_Thin_and_Ext-1891284.pdf
+$ENDCMP
+#
+#End Doc Library

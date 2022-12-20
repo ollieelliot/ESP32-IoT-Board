@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADXL335BCPZ-RL
+D Accelerometer
+K
+F https://www.arrow.com/en/products/adxl335bcpz-rl/analog-devices
+$ENDCMP
+#
+#End Doc Library

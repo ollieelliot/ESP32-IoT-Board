@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INMP441ACEZ
+D INVENSENSE - INMP441ACEZ - Audio Control, 1.8V to 3.3V, Serial, LGA, 9 Pins, -40 C
+K
+F https://componentsearchengine.com/Datasheets/2/INMP441ACEZ.pdf
+$ENDCMP
+#
+#End Doc Library
